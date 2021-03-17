@@ -1,0 +1,8 @@
+{
+    "name": "666",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true
+    }
+}
